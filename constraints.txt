@@ -50,7 +50,6 @@ JPype1==1.4.1
 JayDeBeApi==1.2.3
 Mako==1.2.3
 Markdown==3.4.1
-MarkupSafe==2.1.1
 PyGithub==1.57
 PyHive==0.6.5
 PyJWT==2.6.0
