@@ -515,7 +515,6 @@ qds-sdk==1.16.1
 reactivex==4.0.4
 readme-renderer==37.3
 redis==3.5.3
-redshift-connector==2.0.909
 regex==2022.10.31
 requests-file==1.5.1
 requests-kerberos==0.14.0
